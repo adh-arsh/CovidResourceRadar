@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "173537655709",
+    "project_id": "covidresourceconsole-858f0",
+    "storage_bucket": "covidresourceconsole-858f0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:173537655709:android:8a979771bb124259c1cd74",
+        "android_client_info": {
+          "package_name": "com.covidresourceconsole"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "173537655709-3c5ef1op70o06sofsbb48knlofa40qpl.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.covidresourceconsole",
+            "certificate_hash": "c78434b7cb4e23877c7050a8bc186a10014ac2ef"
+          }
+        },
+        {
+          "client_id": "173537655709-ellhfndtp4aesoro077snsikaqrpiag1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDFHySuiMAu8GjRG1f8OYo69NFpU1y-R8g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "173537655709-ellhfndtp4aesoro077snsikaqrpiag1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
