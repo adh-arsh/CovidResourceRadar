@@ -1,16 +1,22 @@
-# covidresourceconsole
+# Covid Resource Radar
 
-A new Flutter application.
+Covid Resource Radar is an app which displays a persons need of covid related resource and availablity of the same on map.
+If....lets say an oxygen cylinder, then can open the app and look for people who are providing the same.
+and on the other hand, if somebody has ..lets say 10 oxygen cylinder, then can let everybody around them know that this person has 10 oxygen cylinders.
 
-## Getting Started
+The app is designed in such way the a person who is in urgen need of a resource can have a big picture of the availabilty and can acquire it with least number of taps on screen.
 
-This project is a starting point for a Flutter application.
+To call someone from map : 3 taps!!!
+To announce/request : 2 taps and some typing of details.
 
-A few resources to get you started if this is your first Flutter project:
+Throughout the app is design to not add onto the anxiety the user is already facing.
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+#Development Detail
+
+The app is desgined with Flutter SDK and dart language.
+Which consists of an ocean of plugins, which reduced the time taken for development to just 2 days(for core functionalities) .. overall 6 days for complete development and testing.
+
+Current Firebase is being used as the backend for the app.
+
+Looking forward to add cloud functionalities and quering once the payment issue is resolved (cash got deducted by its not reflecting in account)
