@@ -17,6 +17,6 @@ Throughout the app is design to not add onto the anxiety the user is already fac
 The app is desgined with Flutter SDK and dart language.
 Which consists of an ocean of plugins, which reduced the time taken for development to just 2 days(for core functionalities) .. overall 6 days for complete development and testing.
 
-Current Firebase is being used as the backend for the app.
+Currently Firebase is being used as the backend for the app.
 
 Looking forward to add cloud functionalities and quering once the payment issue is resolved (cash got deducted by its not reflecting in account)
